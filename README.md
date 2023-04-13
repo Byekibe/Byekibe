@@ -2,7 +2,16 @@
 
 ### Hi there 👋
 
-### I am a software developer
+### I am a software developer...
+
+<hr />
+
+### 📫 How to reach me: 
+* [Mail](kibetpeter95@gmail.com)
+* Twitter(https://twitter.com/kibetpete)
+* LinkedIn(https://www.linkedin.com/in/byekibe/)
+
+### Ask me about Reactor Flask 😁😁
 
 <!--
 **Byekibe/Byekibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
