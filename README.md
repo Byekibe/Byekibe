@@ -8,10 +8,10 @@
 
 ### 📫 How to reach me: 
 * [Mail](kibetpeter95@gmail.com)
-* Twitter(https://twitter.com/kibetpete)
-* LinkedIn(https://www.linkedin.com/in/byekibe/)
+* [Twitter](https://twitter.com/kibetpete)
+* [LinkedIn](https://www.linkedin.com/in/byekibe/)
 
-### Ask me about Reactor Flask 😁😁
+### Ask me about React or Flask 😁😁
 
 <!--
 **Byekibe/Byekibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
