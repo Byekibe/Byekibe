@@ -7,7 +7,7 @@
 <hr />
 
 ### 📫 How to reach me: 
-* [Mail](kibetpeter95@gmail.com)
+* [Mail](mailto:kibetpeter95@gmail.com)
 * [Twitter](https://twitter.com/kibetpete)
 * [LinkedIn](https://www.linkedin.com/in/byekibe/)
 
