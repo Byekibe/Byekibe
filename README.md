@@ -7,9 +7,11 @@
 <hr />
 
 ### 📫 How to reach me: 
-* [Mail](mailto:kibetpeter95@gmail.com)
-* [Twitter](https://twitter.com/kibetpete)
-* [LinkedIn](https://www.linkedin.com/in/byekibe/)
+- [Mail](mailto:kibetpeter95@gmail.com)
+- [Twitter](https://twitter.com/kibetpete)
+- [LinkedIn](https://www.linkedin.com/in/byekibe/)
+- [Google dev profile](https://g.dev/petebye)
+
 
 ### Ask me about React or Flask 😁😁
 
