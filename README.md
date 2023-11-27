@@ -7,7 +7,7 @@
 <hr />
 
 ### 📫 How to reach me: 
-- [website](https://peter-techie.com)
+- [website](https://byedev.com])
 - [Mail](mailto:kibetpeter95@gmail.com)
 - [Twitter](https://twitter.com/kibetpete)
 - [LinkedIn](https://www.linkedin.com/in/byekibe/)
